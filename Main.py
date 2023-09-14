@@ -1,6 +1,6 @@
-valor1 = int(input("digite o primeiro número: "))
-valor2 = int(input("digite o segundo número: "))
+valor1 = int(input("Digite o primeiro número: "))
+valor2 = int(input("Digite o segundo número: "))
 
-print(type(valor1))
+resultado = valor1 + valor2
 
-print(valor1 + valor2)
+print("Resultado : " + str(resultado))
